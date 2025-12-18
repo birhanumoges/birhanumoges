@@ -18,10 +18,10 @@
 
 ###  Programming Languages
 
-* Python 🐍
-* R 📈
-* Java ☕
-* SQL 🗄️
+* Python 
+* R 
+* Java 
+* SQL 
 
 ###  Data Science & ML
 
@@ -87,14 +87,14 @@
 
 ##  Connect With Me
 
-* 💼 LinkedIn: *(add your link here)*
-* 📧 Email: *(add your email here)*
-* 🌐 Portfolio: *(optional)*
+*  LinkedIn: *(add your link here)*
+*  Email: *(add your email here)*
+*  Portfolio: *(optional)*
 
 ---
 
-⭐ **If you like my work, feel free to follow me and star my repositories!**
+ **If you like my work, feel free to follow me and star my repositories!**
 
-> *Explore • Analyze • Innovate* 🚀
+> *Explore • Analyze • Innovate* 
 
 ![GitHub](Banner.png)
