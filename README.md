@@ -47,11 +47,11 @@
 
 ##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtggggggggggg\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birhanumoges\&show_icons=true\&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtggggggggggg\&layout=compact\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birhanumoges\&layout=compact\&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gtggggggggggg\&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=birhanumoges\&theme=dark)
 
 ---
 
