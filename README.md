@@ -1,7 +1,4 @@
-##  Hi, I'm a Data Scientist
-
- **Aspiring Data Scientist | Machine Learning | Data Analysis | AI**
- Passionate about turning data into actionable insights and building intelligent systems.
+![GitHub](Banner.png)
 
 ---
 
