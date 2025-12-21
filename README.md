@@ -94,4 +94,3 @@
 
 > *Explore • Analyze • Innovate* 
 
-![GitHub](Banner.png)
