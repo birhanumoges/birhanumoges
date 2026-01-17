@@ -1,4 +1,4 @@
-![GitHub](Banner.png)
+-![GitHub](Banner.png)
 
 ---
 
