@@ -32,7 +32,6 @@
 
 </div>
 
-
 ###  Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -52,18 +51,18 @@
 
 ##  Connect With Me
 <p>
-  <a href="mailto:birhanumoges726@gmail.com" title="Email me">
+  <a href="mailto:birhanumoges726@gmail.com" title="birhanumoges726@gmail.com">
     <img src="https://img.shields.io/badge/Email-📧-blue?style=for-the-badge" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/birhanumoges/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/birhanumoges/" title="LinkedIn:birhanumoges">
     <img src="https://img.shields.io/badge/LinkedIn-|-0077B5?style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/birhanumoges" title="Twitter">
+  <a href="https://twitter.com/birhanumoges" title="Twitter:birhanumoges">
     <img src="https://img.shields.io/badge/Twitter-|-1DA1F2?style=for-the-badge" alt="Twitter">
   </a>
 </p>
-*  Portfolio: *(optional)*
 ---
+
  **If you like my work, feel free to follow me and star my repositories!**
 
 
