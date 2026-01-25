@@ -28,12 +28,7 @@
 
 ---
 ##  GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birhanumoges\&show_icons=true\&theme=dark)
-
-![Top Languages(https://github-readme-stats.vercel.app/api/top-langs/?username=birhanumoges\&layout=compact\&theme=dark
-
-![GitHub Streak(https://streak-stats.demolab.com/?user=birhanumoges\&theme=dark
 ---
 
 ##  Connect With Me
