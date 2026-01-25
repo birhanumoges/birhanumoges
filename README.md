@@ -1,11 +1,25 @@
 
 ---
-## About Me
+<table>
+  <tr>
+    <!-- About Me text on left -->
+    <td>
 
-- Passionate about **Data Science, Machine Learning, Deep Learning, and AI**  
+### About Me
+- Passionate about **Data Science, Machine Learning, Deep Learning, Python and AI**  
 - Skilled in **data analysis, visualization, and modeling**  
 - Enjoy working on **real-world datasets and research projects**  
 - Currently learning **advanced ML and Deep Learning**
+
+    </td>
+
+    <!-- Banner image on right -->
+    <td>
+      <img src="https://your-image-link.com/banner.png" width="120">
+    </td>
+  </tr>
+</table>
+
 ---
 ##  Skills & Tools
 ###  Programming Languages
@@ -61,8 +75,8 @@
     <img src="https://img.shields.io/badge/Twitter-|-1DA1F2?style=for-the-badge" alt="Twitter">
   </a>
 </p>
----
 
+---
  **If you like my work, feel free to follow me and star my repositories!**
 
 
