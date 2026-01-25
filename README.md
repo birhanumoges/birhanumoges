@@ -21,25 +21,22 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Visualization
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
-
 ##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birhanumoges\&show_icons=true\&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birhanumoges\&layout=compact\&theme=dark)
+![Top Languages(https://github-readme-stats.vercel.app/api/top-langs/?username=birhanumoges\&layout=compact\&theme=dark
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=birhanumoges\&theme=dark)
+![GitHub Streak(https://streak-stats.demolab.com/?user=birhanumoges\&theme=dark
 ---
 
 ##  Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birhanumoges/)
 [![Email](https://img.shields.io/badge/Email-📧-blue?style=for-the-badge)](mailto:birhanumoges726@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-🐦-1DA1F2?style=for-the-badge)](https://twitter.com/username)
