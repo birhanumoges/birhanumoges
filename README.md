@@ -15,7 +15,7 @@
 
     <!-- Banner image on right -->
     <td>
-      <img src="Banner.png" width="120">
+      <img src="Banner.png" width="280">
     </td>
   </tr>
 </table>
