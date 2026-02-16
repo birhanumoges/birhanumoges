@@ -59,8 +59,10 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
+
 ##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birhanumoges\&show_icons=true\&theme=dark)
+
 ---
 
 ##  Connect With Me
