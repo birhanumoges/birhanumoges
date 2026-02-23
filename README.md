@@ -1,12 +1,13 @@
 
 ---
+
 <table>
   <tr>
     <!-- About Me text on left -->
     <td>
 
 ### About Me
-I am a software developer and data science enthusiast with experience in **Java development**, **machine learning** (including deep learning and computer vision), and **predictive modeling**. I enjoy exploring complex datasets, building models, and creating insightful visualizations. Alongside my data science work, I develop practical applications using Java. I am proficient in Python and widely used libraries such as Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, Matplotlib, and Seaborn. My goal is to turn data into actionable insights, create meaningful projects.
+I am a data science enthusiast with experience in **Java development**, **machine learning** (including deep learning and computer vision), and **predictive modeling**. I enjoy exploring complex datasets, building models, and creating insightful visualizations.  My goal is to turn data into actionable insights.
 
     </td>
 
@@ -16,6 +17,7 @@ I am a software developer and data science enthusiast with experience in **Java 
     </td>
   </tr>
 </table>
+
 ---
 ##  Skills & Tools
 ###  Programming Languages
