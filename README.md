@@ -5,10 +5,9 @@
     <td>
 
 ### About Me
-I am a data science enthusiast with experience in **Java development**, **machine learning**, and **predictive modeling**. I enjoy exploring complex datasets, building models, creating insightful visualizations. My goal is to turn data into actionable insights.
+- I am a data science enthusiast with experience in **Java development**, **machine learning**, and **predictive modeling**.    I enjoy exploring complex datasets, building models, creating insightful visualizations. My goal is to turn data into   actionable insights.
 
- **additionaly**    
-- **Data Science & ML:** Time series and spatial analysis, Deep Learning, Computer Vision, Predictive Modeling
+
 
     </td>
 
@@ -51,6 +50,9 @@ I am a data science enthusiast with experience in **Java development**, **machin
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge&logo=machinelearning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logo=deeplearning&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008080?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
