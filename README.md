@@ -1,22 +1,18 @@
 ---
-
 <table>
   <tr>
     <!-- Left column: About Me -->
     <td width="50%" valign="top">
-
-### About Me
-I am a data science enthusiast with experience in **Java development**, **machine learning** (including deep learning and computer vision), and **predictive modeling**. I enjoy exploring complex datasets, building models, and creating insightful visualizations. My goal is to turn data into actionable insights.
-
+      <h3>📋 About Me</h3>
+      <p>I am a data science enthusiast with experience in <strong>Java development</strong>, <strong>machine learning</strong> (including deep learning and computer vision), and <strong>predictive modeling</strong>. I enjoy exploring complex datasets, building models, and creating insightful visualizations. My goal is to turn data into actionable insights.</p>
     </td>
-
+    
     <!-- Right column: Banner -->
-    <td width="50%" valign="top">
-      <img src="./Banner.png" alt="Banner" style="max-width:100%; height:auto;">
+    <td width="50%" valign="top" align="center">
+      <img src="./Banner.png" alt="Banner" style="max-width:100%; height:auto; border-radius:8px;">
     </td>
   </tr>
 </table>
-
 ---
 
 ##  Skills & Tools
