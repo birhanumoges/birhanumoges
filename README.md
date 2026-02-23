@@ -1,4 +1,3 @@
-
 ---
 
 <table>
@@ -7,13 +6,13 @@
     <td>
 
 ### About Me
-I am a data science enthusiast with experience in **Java development**, **machine learning** (including deep learning and computer vision), and **predictive modeling**. I enjoy exploring complex datasets, building models, and creating insightful visualizations.  My goal is to turn data into actionable insights.
+I am a data science enthusiast with experience in **Java development**, **machine learning** (including deep learning and computer vision), and **predictive modeling**. I enjoy exploring complex datasets, building models, and creating insightful visualizations. My goal is to turn data into actionable insights.
 
     </td>
 
     <!-- Banner image on right -->
     <td>
-      <img src="Banner.png" width="480">
+      <img src="./Banner.png" alt="Banner" width="480">
     </td>
   </tr>
 </table>
