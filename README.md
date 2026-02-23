@@ -1,5 +1,3 @@
----
-
 <table>
   <tr>
     <!-- Left column: About Me -->
