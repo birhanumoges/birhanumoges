@@ -1,17 +1,17 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  <!-- About Me text on left -->
+  <!-- Left Column: About Me -->
   <div style="flex: 1; min-width: 300px;">
 ### About Me
 I am a data science enthusiast with experience in **Java development**, **machine learning** (including deep learning and computer vision), and **predictive modeling**. I enjoy exploring complex datasets, building models, and creating insightful visualizations. My goal is to turn data into actionable insights.
   </div>
 
-  <!-- Banner image on right -->
+  <!-- Right Column: Banner -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="Banner.png" alt="Banner" width="480" style="max-width: 100%;">
+    <img src="Banner.png" alt="Banner" style="width: 100%; max-width: 480px;">
   </div>
 
 </div>
