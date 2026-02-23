@@ -5,8 +5,10 @@
     <td>
 
 ### About Me
-I am a data science enthusiast with experience in **Java development**, **machine learning** (including deep learning and computer vision), and **predictive modeling**. I enjoy exploring complex datasets, building models, creating insightful visualizations My goal is to turn data into actionable insights, share projects, and help the community learn and grow.
+I am a data science enthusiast with experience in **Java development**, **machine learning**, and **predictive modeling**. I enjoy exploring complex datasets, building models, creating insightful visualizations. My goal is to turn data into actionable insights.
 
+ **additionaly**    
+- **Data Science & ML:** Time series and spatial analysis, Deep Learning, Computer Vision, Predictive Modeling
 
     </td>
 
