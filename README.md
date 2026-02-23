@@ -6,10 +6,7 @@
     <td>
 
 ### About Me
-- Passionate about **Data Science, Machine Learning, Deep Learning, Python and AI**  
-- Skilled in **data analysis, visualization, and modeling**  
-- Enjoy working on **real-world datasets and research projects**  
-- Currently learning **advanced ML and Deep Learning**
+“I am a data science enthusiast with experience in machine learning and its part(deep learning, computer vision), predictive modeling, and data-driven analytics. I enjoy exploring complex datasets, building models, and creating insightful visualizations. My goal is to turn data into actionable insights and share practical projects to help the community learn and grow.”
 
     </td>
 
