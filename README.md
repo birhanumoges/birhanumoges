@@ -1,22 +1,23 @@
 
 ---
-<table>
-  <tr>
-    <!-- About Me text on left -->
-    <td>
 
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap;">
+
+  <!-- About Me text on left -->
+  <div style="flex: 1; min-width: 300px;">
 ### About Me
-I am a data science enthusiast with experience in **Java development**, **machine learning** (including deep learning and computer vision), and **predictive modeling**. I enjoy exploring complex datasets, building models, and creating insightful visualizations.  My goal is to turn data into actionable insights.
+I am a data science enthusiast with experience in **Java development**, **machine learning** (including deep learning and computer vision), and **predictive modeling**. I enjoy exploring complex datasets, building models, and creating insightful visualizations. My goal is to turn data into actionable insights.
+  </div>
 
-    </td>
+  <!-- Banner image on right -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="Banner.png" alt="Banner" width="480" style="max-width: 100%;">
+  </div>
 
-    <!-- Banner image on right -->
-    <td>
-      <img src="Banner.png" width="480">
-    </td>
-  </tr>
-</table>
+</div>
+
 ---
+
 ##  Skills & Tools
 ###  Programming Languages
 <!-- Skills Section -->
@@ -77,5 +78,3 @@ I am a data science enthusiast with experience in **Java development**, **machin
 
 ---
  **If you like my work, feel free to follow me and star my repositories!**
-
- banner not visualize fix codeand give it
