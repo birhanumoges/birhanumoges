@@ -1,14 +1,23 @@
+
 <table>
   <tr>
-    <!-- Left column: About Me -->
-    <td width="50%" valign="top">
-      <h3>📋 About Me</h3>
-      <p>I am a data science enthusiast with experience in <strong>Java development</strong>, <strong>machine learning</strong> (including deep learning and computer vision), and <strong>predictive modeling</strong>. I enjoy exploring complex datasets, building models, and creating insightful visualizations. My goal is to turn data into actionable insights.</p>
+    <!-- About Me text on left -->
+    <td>
+
+### About Me
+I am a software developer and data science enthusiast with experience in **Java development**, **machine learning** (including deep learning and computer vision), and **predictive modeling**. I enjoy exploring complex datasets, building models, creating insightful visualizations, and developing practical applications. My goal is to turn data into actionable insights, share projects, and help the community learn and grow.
+
+**Skills:**  
+- **Programming Languages:** Java, Python  
+- **Data Science & ML:** Machine Learning, Deep Learning, Computer Vision, Predictive Modeling, Data Visualization  
+- **Tools & Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, Matplotlib, Seaborn  
+- **Web & Application Dev:** Java Servlets, JSP, JDBC, Java Swing  
+
     </td>
-    
-    <!-- Right column: Banner -->
-    <td width="50%" valign="top" align="center">
-      <img src="./Banner.png" alt="Banner" style="max-width:100%; height:auto; border-radius:8px;">
+
+    <!-- Banner image on right -->
+    <td>
+      <img src="Banner.png" width="480">
     </td>
   </tr>
 </table>
