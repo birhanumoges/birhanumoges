@@ -1,4 +1,5 @@
 ---
+
 <table>
   <tr>
     <!-- Left column: About Me -->
@@ -13,6 +14,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ##  Skills & Tools
