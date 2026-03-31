@@ -13,7 +13,7 @@
 
     <!-- Banner image on right -->
     <td>
-      <img src="Banner.png" width="1150">
+      <img src="banner.png" width="1150">
     </td>
   </tr>
 </table>
