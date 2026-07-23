@@ -1,10 +1,10 @@
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20there,%20I'm%20%5BYour%20Name%5D%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=18"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20there,%20I'm%20Birhanu%20Moges%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;AI+Engineer;Turning+Data+Into+Decisions" alt="Typing SVG"/>
+
 </div>
-<table>
-<tr>
-<td width="55%" valign="middle">
 
 ##  Skills & Tools
 ###  Programming Languages
