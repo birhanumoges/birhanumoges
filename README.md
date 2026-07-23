@@ -193,15 +193,24 @@ mindmap
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
 
 </details>
 
-##  GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birhanumoges\&show_icons=true\&theme=dark)
+## 📈 GitHub Stats
+ 
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=birhanumoges&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=birhanumoges&theme=tokyo-night&hide_border=true"/>
+</div>
 
 ---
 
