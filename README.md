@@ -6,6 +6,92 @@
 
 </div>
 
+---
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+### 🚀 About Me
+
+- 🔭 I'm a **Data Scientist / AI & ML Engineer** passionate about turning raw data into real-world impact.
+- 🧠 Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Predictive Modeling**.
+- 📊 I love exploring complex datasets, engineering features, and building models that actually ship.
+- 🤖 Currently deep into **LLMs, RAG pipelines, and MLOps**.
+- 🌱 Always learning — from classic statistics to the latest in generative AI.
+
+</td>
+<td width="45%">
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=Turning+data+into+decisions...;Training+models%2C+not+excuses.;print(%22Hello%2C+World%22)+%E2%86%92+model.fit(X%2C+y);Building+AI+that+actually+ships+to+prod." alt="Typing SVG"/>
+
+</div>
+
+<br/>
+
+## 🔄 How I Work — From Data to Deployment
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A["📥 Collect Data"] --> B["🧹 Clean & Explore"]
+    B --> C["🛠️ Feature Engineering"]
+    C --> D["🤖 Train Models"]
+    D --> E["📏 Evaluate & Tune"]
+    E --> F["🚀 Deploy to Production"]
+    F --> G["📡 Monitor & Improve"]
+    G -.->|feedback loop| C
+
+    style A fill:#0f2027,color:#fff
+    style B fill:#203a43,color:#fff
+    style C fill:#2c5364,color:#fff
+    style D fill:#00b4d8,color:#000
+    style E fill:#0096c7,color:#fff
+    style F fill:#0077b6,color:#fff
+    style G fill:#023e8a,color:#fff
+```
+
+</div>
+
+<br/>
+
+## 🧩 My Core Focus Areas
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Birhanu<br/>Moges))
+    Data Science
+      Statistics
+      EDA & Visualization
+      Predictive Modeling
+    Machine Learning
+      Scikit-learn
+      XGBoost
+      SHAP Explainability
+    AI Engineering
+      LLMs
+      RAG Pipelines
+      Vector Search
+    MLOps
+      Docker
+      FastAPI
+      Model Monitoring
+```
+
+</div>
+
 ##  Skills & Tools
 ###  Programming Languages
 <!-- Skills Section -->
