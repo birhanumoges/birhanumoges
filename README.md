@@ -223,18 +223,53 @@ mindmap
 
 ---
 
-##  Connect With Me
-<p>
-  <a href="mailto:birhanumoges726@gmail.com" title="birhanumoges726@gmail.com">
-    <img src="https://img.shields.io/badge/Email-📧-blue?style=for-the-badge" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/birhanumoges/" title="LinkedIn:birhanumoges">
-    <img src="https://img.shields.io/badge/LinkedIn-|-0077B5?style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/birhanumoges" title="Twitter:birhanumoges">
-    <img src="https://img.shields.io/badge/Twitter-|-1DA1F2?style=for-the-badge" alt="Twitter">
-  </a>
-</p>
+## 🌐 Connect With Me
 
----
- **If you like my work, feel free to follow me and star my repositories!**
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://kaggle.com/YOUR_KAGGLE">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/birhanumoges">
+  <img src="https://img.shields.io/github/followers/birhanumoges?label=Follow%20%40birhanumoges&style=social"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+data-driven+together." alt="Typing SVG"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=birhanumoges&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ If you like my work, feel free to follow me and star my repositories!
+
+<a href="https://github.com/birhanumoges?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repos-2a5298?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
