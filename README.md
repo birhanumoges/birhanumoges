@@ -201,15 +201,24 @@ mindmap
 ---
 
 ## 📈 GitHub Stats
- 
+
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=birhanumoges&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=birhanumoges&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=birhanumoges&theme=tokyonight&hide_border=true"/>
-<br/><br/>
- 
+
+<img src="https://streak-stats.demolab.com?user=birhanumoges&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=birhanumoges&theme=tokyo-night&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=birhanumoges&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </div>
 
 ---
