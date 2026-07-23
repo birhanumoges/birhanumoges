@@ -223,6 +223,72 @@ mindmap
 
 ---
 
+## 🧠 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=130&width=600&section=header&text=Legal%20NLP%20Platform&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=900&color=2A5298&center=true&vCenter=true&width=380&lines=17K%2B+court+cases+processed;Verdict+prediction+%2B+RAG+search;Classification+%E2%86%92+FAISS+%E2%86%92+FastAPI" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-2A6F97?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<br/><br/>
+
+<a href="https://github.com/birhanumoges/legal-nlp-platform">
+<img src="https://img.shields.io/badge/🔍_View_Project-1e3c72?style=for-the-badge&labelColor=0f2027"/>
+</a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f39c12,100:d35400&height=130&width=600&section=header&text=Sales%20Forcasting%20System&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=900&color=D35400&center=true&vCenter=true&width=380&lines=Ask+questions%2C+get+grounded+answers;Vector+search+%2B+LLM+reasoning;Docs+%E2%86%92+Embeddings+%E2%86%92+Answers" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/birhanumoges/Sales Forecasting System">
+<img src="https://img.shields.io/badge/💬_View_Project-d35400?style=for-the-badge&labelColor=7c2d12"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=800&color=8B949E&center=true&vCenter=true&width=400&lines=Want+to+see+more%3F" alt="Typing SVG"/>
+
+<a href="https://github.com/birhanumoges?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_Show_More_Projects-2c5364?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
