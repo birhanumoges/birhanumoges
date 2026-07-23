@@ -1,24 +1,10 @@
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20there,%20I'm%20%5BYour%20Name%5D%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=18"/>
+</div>
 <table>
-  <tr>
-    <!-- About Me text on left -->
-    <td>
-
-### About Me
-- I am a data science enthusiast with experience in **Java development**, **machine learning**, and **predictive modeling**.    I enjoy exploring complex datasets, building models, creating insightful visualizations. My goal is to turn data into   actionable insights.
-
-
-
-    </td>
-
-    <!-- Banner image on right -->
-    <td>
-      <img src="banner.png" width="1950">
-    </td>
-  </tr>
-</table>
-
----
+<tr>
+<td width="55%" valign="middle">
 
 ##  Skills & Tools
 ###  Programming Languages
