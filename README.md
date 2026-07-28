@@ -149,8 +149,6 @@ mindmap
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-`Data Wrangling` ![](https://progress-bar.dev/95?width=120&color=2ea44f)
-`Storytelling / BI` ![](https://progress-bar.dev/88?width=120&color=2ea44f)
 
 ---
 
@@ -160,13 +158,10 @@ mindmap
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-`Deployment / APIs` ![](https://progress-bar.dev/82?width=120&color=e74c3c)
-`Cloud (AWS/GCP)` ![](https://progress-bar.dev/68?width=120&color=e74c3c)
 
 </td>
 </tr>
