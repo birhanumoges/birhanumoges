@@ -13,11 +13,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm a **Data Scientist / AI & ML Engineer** passionate about turning raw data into real-world impact.
-- 🧠 Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Predictive Modeling**.
-- 📊 I love exploring complex datasets, engineering features, and building models that actually ship.
-- 🤖 Currently deep into **LLMs, RAG pipelines, and MLOps**.
-- 🌱 Always learning — from classic statistics to the latest in generative AI.
+-  I'm a **Data Scientist / AI & ML Engineer** passionate about turning raw data into real-world impact.
+-  Skilled in **Python**, **Machine Learning**, **Deep Learning**, **LLM**and **Predictive Modeling**.
+-  I love exploring complex datasets, engineering features, and building models that actually ship.
+-  Currently deep into **RAG pipelines, and MLOps**.
+-  Always learning — from classic statistics to the latest in generative AI.
 
 </td>
 <td width="45%">
